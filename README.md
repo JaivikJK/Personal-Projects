@@ -1,2 +1,2 @@
-# Stock_Prediction
-This project predicts price of stock using data analysis and implementation of ML Models.
+# Personal Projects
+It contains my personal projects which I have made during my engineering course.
