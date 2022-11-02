@@ -1,3 +1,2 @@
-# Personal-Projects
-
-This repository contains all my projects.
+# Stock_Prediction
+This project predicts price of stock using data analysis and implementation of ML Models.
